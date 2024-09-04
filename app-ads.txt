@@ -1,6 +1,8 @@
 google.com, pub-2960293519697422, DIRECT, f08c47fec0942fa0
 gameadzone.com, 1728, DIRECT
+
 google.com, pub-5573596251090750, DIRECT, f08c47fec0942fa0
 google.com, pub-9449766611164993, DIRECT, f08c47fec0942fa0
 google.com, pub-1476864828230921, DIRECT, f08c47fec0942fa0
+
 google.com, pub-6778362320800856, DIRECT, f08c47fec0942fa0
